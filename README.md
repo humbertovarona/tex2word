@@ -58,5 +58,5 @@ If you encounter issues rendering the LaTeX equation, ensure that:
 
 ## License
 
-This project is licensed under the MIT License - see the CC0 LICENSE file for details.
+This project is licensed under the CC0 License - see the CC0 LICENSE file for details.
 
